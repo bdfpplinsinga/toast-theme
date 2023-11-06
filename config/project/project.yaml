@@ -1,0 +1,22 @@
+dateModified: 1699271259
+email:
+  fromEmail: info@toastdesign.nl
+  fromName: 'Toast Theme'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    3acde7e8-4936-4117-97cb-f04ccfd6cd0a: 'Toast Theme' # Toast Theme
+    53416ef4-fb37-41e9-aabf-2d9923b42bc7: Common # Common
+    afcd9457-ba81-4851-a723-93bee3dccd4c: 'Toast Theme' # Toast Theme
+system:
+  edition: solo
+  live: true
+  name: 'Toast Theme'
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
