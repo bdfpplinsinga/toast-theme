@@ -1,6 +1,16 @@
 {
   "require": {
+    "craftcms/ckeditor": "^3.6",
     "craftcms/cms": "^4.4.0",
+    "mmikkel/cp-field-inspect": "^1.4",
+    "nystudio107/craft-emptycoalesce": "^4.0",
+    "nystudio107/craft-templatecomments": "^4.0",
+    "putyourlightson/craft-sprig": "^2.7",
+    "sebastianlenz/linkfield": "^2.1",
+    "studioespresso/craft-dumper": "^3.0",
+    "topshelfcraft/environment-label": "^4.0",
+    "vaersaagod/matrixmate": "^2.1",
+    "verbb/knock-knock": "^2.0",
     "vlucas/phpdotenv": "^5.4.0"
   },
   "require-dev": {

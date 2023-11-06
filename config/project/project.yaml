@@ -1,4 +1,4 @@
-dateModified: 1699271259
+dateModified: 1699272462
 email:
   fromEmail: info@toastdesign.nl
   fromName: 'Toast Theme'
@@ -7,7 +7,57 @@ meta:
   __names__:
     3acde7e8-4936-4117-97cb-f04ccfd6cd0a: 'Toast Theme' # Toast Theme
     53416ef4-fb37-41e9-aabf-2d9923b42bc7: Common # Common
+    ad12e0f8-bdd8-4da1-9167-f080f9ff6d0e: Simple # Simple
     afcd9457-ba81-4851-a723-93bee3dccd4c: 'Toast Theme' # Toast Theme
+plugins:
+  ckeditor:
+    edition: standard
+    enabled: true
+    schemaVersion: 3.0.0.0
+  cp-field-inspect:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  dumper:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  empty-coalesce:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  environment-label:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+    settings:
+      labelColor: cc5643
+      labelText: Local
+      prefixText: null
+      showLabel: true
+      suffixText: null
+      targetSelector: '#global-header:before'
+      textColor: ffffff
+  knock-knock:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.1.1
+  matrixmate:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  sprig:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.1
+  templatecomments:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  typedlinkfield:
+    edition: standard
+    enabled: true
+    schemaVersion: 2.0.0
 system:
   edition: solo
   live: true
