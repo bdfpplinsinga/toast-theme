@@ -1,4 +1,15 @@
 {
+  "name": "toastdesign/toast-theme",
+  "description": "A Craft CMS starter project by Sean Smith",
+  "keywords": [
+    "craft",
+    "cms",
+    "craftcms",
+    "project"
+  ],
+  "type": "project",
+  "license": "MIT",
+  "minimum-stability": "beta",
   "require": {
     "clubstudioltd/craft-asset-rev": "^7.0",
     "craftcms/ckeditor": "^3.6",
