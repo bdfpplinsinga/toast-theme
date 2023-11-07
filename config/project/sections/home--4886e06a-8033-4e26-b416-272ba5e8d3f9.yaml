@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: home
+name: Home
+propagationMethod: all
+siteSettings:
+  afcd9457-ba81-4851-a723-93bee3dccd4c: # Toast Theme
+    enabledByDefault: true
+    hasUrls: true
+    template: pages/_entry.twig
+    uriFormat: __home__
+type: single

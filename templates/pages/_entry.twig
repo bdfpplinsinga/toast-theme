@@ -1,7 +1,5 @@
 {% extends '_layouts/_base.twig' %}
 
 {% block content %}
-  <div class="container mx-auto">
-    <div>Hallo</div>
-  </div>
+  {% include 'pages/_entry-type/' ~ entry.type %}
 {% endblock %}
