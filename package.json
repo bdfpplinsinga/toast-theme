@@ -1,7 +1,7 @@
 {
   "name": "toasttheme",
   "version": "1.0.0",
-  "description": "",
+  "description": "Craft CMS Starter including Laravel Mix, TailwindCSS, AlpineJS, and more.",
   "main": "index.js",
   "dependencies": {
     "@tailwindcss/container-queries": "^0.1.1",
