@@ -1,0 +1,8 @@
+{% extends '_blocks/_layout.twig' %}
+
+{% block content %}
+  {% if block.sectionTitle|length %}
+    <h2 class="">{{ block.sectionTitle }}</h2>
+  {% endif %}
+  <div class="prose">{{ block.copy }}</div>
+{% endblock %}

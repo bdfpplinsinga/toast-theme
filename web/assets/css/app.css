@@ -933,8 +933,27 @@ video {
 .prose :where(.prose > :last-child):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
   margin-bottom: 0;
 }
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+.block {
+  display: block;
+}
+.w-full {
+  width: 100%;
+}
 .bg-red-200 {
   --tw-bg-opacity: 1;
   background-color: rgb(254 202 202 / var(--tw-bg-opacity));
+}
+.underline {
+  text-decoration-line: underline;
+}
+@container (min-width: 32rem) {
+
+  .\@lg\:underline {
+    text-decoration-line: underline;
+  }
 }
 

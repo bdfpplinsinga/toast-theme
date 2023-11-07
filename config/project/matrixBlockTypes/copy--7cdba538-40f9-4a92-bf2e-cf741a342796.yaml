@@ -1,0 +1,82 @@
+field: bbfb8ee9-ed0d-4297-89f9-83b0fcbc55ee # Content Builder
+fieldLayouts:
+  13375775-1443-4da6-9247-0a7c66544601:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            elementCondition: null
+            fieldUid: a1a412a0-ff7b-499b-9f5a-795fcdfc3325 # Section Title
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: ecf901c8-558a-46ab-a875-bab3985fa843
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: b1bac2de-ffd4-40d1-9498-4c6677c0ff98 # Copy
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: e6ece205-2858-44b3-922e-1d48fb2c648f
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: fc50a6f3-cdd7-4168-8e55-d58b928865ae
+        userCondition: null
+fields:
+  a1a412a0-ff7b-499b-9f5a-795fcdfc3325: # Section Title
+    columnSuffix: vztenwvi
+    contentColumnType: text
+    fieldGroup: null
+    handle: sectionTitle
+    instructions: null
+    name: 'Section Title'
+    searchable: true
+    settings:
+      byteLimit: null
+      charLimit: null
+      code: false
+      columnType: null
+      initialRows: 4
+      multiline: false
+      placeholder: null
+      uiMode: normal
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\fields\PlainText
+  b1bac2de-ffd4-40d1-9498-4c6677c0ff98: # Copy
+    columnSuffix: fgrwjgjn
+    contentColumnType: text
+    fieldGroup: null
+    handle: copy
+    instructions: null
+    name: Copy
+    searchable: false
+    settings:
+      availableTransforms: ''
+      availableVolumes: ''
+      ckeConfig: ad12e0f8-bdd8-4da1-9167-f080f9ff6d0e # Simple
+      columnType: text
+      defaultTransform: null
+      enableSourceEditingForNonAdmins: false
+      purifierConfig: null
+      purifyHtml: true
+      showUnpermittedFiles: false
+      showUnpermittedVolumes: false
+      showWordCount: true
+      wordLimit: null
+    translationKeyFormat: null
+    translationMethod: none
+    type: craft\ckeditor\Field
+handle: copy
+name: Copy
+sortOrder: 1

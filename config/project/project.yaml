@@ -1,4 +1,4 @@
-dateModified: 1699274165
+dateModified: 1699338500
 email:
   fromEmail: info@toastdesign.nl
   fromName: 'Toast Theme'
@@ -6,9 +6,15 @@ email:
 meta:
   __names__:
     3acde7e8-4936-4117-97cb-f04ccfd6cd0a: 'Toast Theme' # Toast Theme
+    7cdba538-40f9-4a92-bf2e-cf741a342796: Copy # Copy
+    733ffab6-6b6e-4c7c-a5e5-cd2aa6a89bcf: Home # Home
+    4886e06a-8033-4e26-b416-272ba5e8d3f9: Home # Home
     53416ef4-fb37-41e9-aabf-2d9923b42bc7: Common # Common
+    a1a412a0-ff7b-499b-9f5a-795fcdfc3325: 'Section Title' # Section Title
     ad12e0f8-bdd8-4da1-9167-f080f9ff6d0e: Simple # Simple
     afcd9457-ba81-4851-a723-93bee3dccd4c: 'Toast Theme' # Toast Theme
+    b1bac2de-ffd4-40d1-9498-4c6677c0ff98: Copy # Copy
+    bbfb8ee9-ed0d-4297-89f9-83b0fcbc55ee: 'Content Builder' # Content Builder
 plugins:
   assetrev:
     edition: standard
