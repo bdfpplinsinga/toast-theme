@@ -1,4 +1,4 @@
-dateModified: 1699272462
+dateModified: 1699274165
 email:
   fromEmail: info@toastdesign.nl
   fromName: 'Toast Theme'
@@ -10,6 +10,10 @@ meta:
     ad12e0f8-bdd8-4da1-9167-f080f9ff6d0e: Simple # Simple
     afcd9457-ba81-4851-a723-93bee3dccd4c: 'Toast Theme' # Toast Theme
 plugins:
+  assetrev:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
   ckeditor:
     edition: standard
     enabled: true
